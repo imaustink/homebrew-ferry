@@ -2,9 +2,9 @@
 class Ferry < Formula
   desc "Kubernetes on a Mac, one virtual machine per pod"
   homepage "https://github.com/imaustink/ferry"
-  url "https://github.com/imaustink/ferry/releases/download/v1.0.0/ferry-v1.0.0-darwin-arm64.tar.gz"
-  version "1.0.0"
-  sha256 "5be2a1b061028c2ed90ff59ecc9dd899b45fd6d4a7d4ae97adf10a6eb653a728"
+  url "https://github.com/imaustink/ferry/releases/download/v1.0.1/ferry-v1.0.1-darwin-arm64.tar.gz"
+  version "1.0.1"
+  sha256 "1ceb2a79565f470a74316b94412769196db10d7ce9ab8a86231ba4805984aae3"
   license "MIT"
 
   depends_on arch: :arm64
